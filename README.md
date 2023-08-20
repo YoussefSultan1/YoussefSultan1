@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Youssef Sultan</h1>
-<h3 align="center">I'm an Electronics and Electrical Communications Engineering Undergraduate Student at Cairo University</h3>
+<h3 align="center">I'm currently an undergraduate student in Junior year, studying Electronics and Electrical Communications Engineering at Cairo University.</h3>
 
 <img align="right" alt="Coding" width="500" src="https://64.media.tumblr.com/d57b511186f98222510362c0b7480cca/726ba20609ba1deb-e7/s500x750/c865e3cc066099cd07422389e622a60b622728c7.gif">
 
